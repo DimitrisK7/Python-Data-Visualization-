@@ -1,0 +1,12 @@
+<---------SCRAPING,PROCESSING AND VISUALISATION OF DATA PROJECT ---------->
+
+Using python3 and various compatible dependencies to scrape data from an API, process it locally and display it 
+in a visually simplistic and easy to understand way. The core of the code can be used with any other
+API with a few tweeks.
+
+ The creation of this project was a first try of mine to create a tool to help me understand
+the nature of data analysis, how to implement it and how to present data in a useful manner in order to
+understand it better.
+
+This is a 2024 re-iteration of my initial project since a lot of dependencies and the API i used previously were not
+supported today.
